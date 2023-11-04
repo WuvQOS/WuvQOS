@@ -1,5 +1,5 @@
-- 👋 Hey hold these for me....
-- 👀 I’m interested in ...You
+- 👋 Hey hold these for me....hands you collectible Bitcoin.
+- 👀 I’m interested in ..fin tech 
 - 🌱 I’m currently learning ... c+ Shell and website design
 - 💞️ I’m looking to collaborate on ...anything of intrest + automation
 - 📫 How to reach me ... ig:@kingscountyoud Email: baw9la@gmail.com

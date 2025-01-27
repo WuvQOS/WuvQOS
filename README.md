@@ -1,7 +1,7 @@
 - 👋 Hey hold these for me....hands you collectible Bitcoin.
 - 👀 I’m interested in ..fin tech 
 - 🌱 I’m currently learning ... c+ Shell and website design
-- 💞️ I’m looking to collaborate and grow in css ... + automation
+- 💞️ I’m looking to collaborate and grow in  automation
 - 📫 How to reach me ... ig:@kingscountyoud Email: baw9la@gmail.com
 
 <!---
